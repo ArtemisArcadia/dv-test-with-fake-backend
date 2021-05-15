@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dv-test-with-fake-backend/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dv-test-with-fake-backend/static/js/main.7334a357.chunk.js",
+    "main.js.map": "/dv-test-with-fake-backend/static/js/main.7334a357.chunk.js.map",
+    "runtime-main.js": "/dv-test-with-fake-backend/static/js/runtime-main.af68ad12.js",
+    "runtime-main.js.map": "/dv-test-with-fake-backend/static/js/runtime-main.af68ad12.js.map",
+    "static/js/2.445d81cc.chunk.js": "/dv-test-with-fake-backend/static/js/2.445d81cc.chunk.js",
+    "static/js/2.445d81cc.chunk.js.map": "/dv-test-with-fake-backend/static/js/2.445d81cc.chunk.js.map",
+    "static/js/3.e4caa70a.chunk.js": "/dv-test-with-fake-backend/static/js/3.e4caa70a.chunk.js",
+    "static/js/3.e4caa70a.chunk.js.map": "/dv-test-with-fake-backend/static/js/3.e4caa70a.chunk.js.map",
+    "index.html": "/dv-test-with-fake-backend/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dv-test-with-fake-backend/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.445d81cc.chunk.js.LICENSE.txt": "/dv-test-with-fake-backend/static/js/2.445d81cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af68ad12.js",
+    "static/js/2.445d81cc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7334a357.chunk.js"
+  ]
+}
